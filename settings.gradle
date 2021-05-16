@@ -1,0 +1,2 @@
+rootProject.name = "Map Navigation"
+include ':app'
